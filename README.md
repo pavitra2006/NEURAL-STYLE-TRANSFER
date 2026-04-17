@@ -34,3 +34,6 @@ The neuralImageTransfer.py is a Streamlit-based neural style transfer applicatio
 
 ### Why it is useful
 This project demonstrates advanced computer vision techniques for artistic image manipulation, combining convolutional neural networks with optimization. It showcases how deep learning can create novel visual content, useful for digital art, design, and creative applications. The interactive web interface makes it accessible for non-technical users to experiment with style transfer.
+
+*OUTPUT*:
+https://github.com/user-attachments/assets/28a5c11a-4c5e-4e04-a364-ca5509e36663
